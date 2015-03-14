@@ -1,0 +1,5 @@
+Changelog
+----------------------------------------------------------------------------------
+22.02.14.
+- FIXED: background-size in top header slider section change to cover
+- new color scheme Cian style_cian.css
